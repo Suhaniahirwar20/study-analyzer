@@ -18,14 +18,8 @@ Study Analyzer is a web application designed to help students track, log, and an
 - **Version Control:** Git & GitHub
 
 ## Folder Structure
-Study-Analyzer/
-├── frontend/ # React frontend app
-│ ├── public/
-│ ├── src/
-│ └── README.md # React default README (can be replaced)
-├── backend/ # Optional backend folder
-├── .gitignore
-└── README.md # Main project README
+<img width="285" height="668" alt="image" src="https://github.com/user-attachments/assets/0a725510-a286-4cea-9247-d79c862643e6" />
+
 
 ## Installation
 1. Clone the repository:
